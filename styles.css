@@ -1,0 +1,19 @@
+body{
+    background-color: #d6e1f0;
+}
+
+.container{
+    background-color: white;
+    width: 320px;
+    height: 500px;
+    border-radius: 20px;
+    margin:auto;
+    text-align: center;
+}
+
+.container-image{
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+    margin: auto;
+}
